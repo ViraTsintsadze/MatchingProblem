@@ -1,0 +1,30 @@
+Variable_name	Question_volunteer	Answer_volunteer	Question_recipient	Answer_recipient	ImportanceCoef	Innitial_values
+OR_bdpg	How would you like to help?	Buy and deliver groceries, I will pay for  groceries	What kind of help do you need?	Buy and deliver groceries, volunteer will need to pay for  groceries	10	0
+OR_bdg	How would you like to help?	Buy and deliver groceries, recipient will refund cost	What kind of help do you need?	Buy and deliver groceries, I will refund cost	10	1
+OR_bdpm	How would you like to help?	Buy and deliver out-of-counter medicine, I will pay for it	What kind of help do you need?	Buy and deliver out-of-counter medicine, volunteer will need to pay for it	10	0
+OR_bdm	How would you like to help?	Buy and deliver out-of-counter medicine, recipient will refund cost	What kind of help do you need?	Buy and deliver out-of-counter medicine, I will refund cost	10	0
+OR_bs	How would you like to help?	Babyseating	What kind of help do you need?	Babyseating	10	0
+OR_dw	How would you like to help?	Dogwalking	What kind of help do you need?	Dogwalking	10	0
+OR_dm	How would you like to help?	Donate money to households in need 	What kind of help do you need?	Money to households in need	10	0
+L_NP	Location	North Portland 	Location	North Portland 	3	0
+L_EP	Location	East Portland 	Location	East Portland 	3	0
+L_NEP	Location	Northeast Portland	Location	Northeast Portland	3	0
+L_SEP	Location	Southeast Portland 	Location	Southeast Portland 	3	0
+L_NWP	Location	Northwest Portland 	Location	Northwest Portland 	3	0
+L_SWP	Location	Southwest Portland 	Location	Southwest Portland 	3	0
+L_B	Location	Beaverton	Location	Beaverton	3	0
+L_H	Location	Hillsboro	Location	Hillsboro	3	0
+L_Ot	Location	Other	Location	Other	3	1
+RS_tp	Would you help any of people listed below first?	Tested COVID-19 positive	Are you?	Tested COVID-19 positive	5	0
+RS_ntp	Would you help any of people listed below first?	Feeling sick, has not been tested COVID-19	Are you?	Feeling sick, has not been tested COVID-19	5	0
+RS_tp	Would you help any of people listed below first?	In the risk group	Are you?	In the risk group	5	1
+RS_tp	Would you help any of people listed below first?	Low-income 	Are you?	Low-income 	5	0
+RS_tp	Would you help any of people listed below first?	Income lowered because of COVID-19 pandemics	Are you?	Income lowered because of COVID-19 pandemics	5	0
+Lang_e	Language of communication	English	Language of communication	English	9	1
+Lang_s	Language of communication	Spanish	Language of communication	Spanish	9	0
+Lang_c	Language of communication	Chinese	Language of communication	Chinese	9	0
+Lang_r	Language of communication	Russuan	Language of communication	Russuan	9	0
+Lang_v	Language of communication	Viethnamise	Language of communication	Viethnamise	9	0
+U_em	Can you take such requests:	Emmergency	How urgent is it?	Emmergency	8	0
+U_u	Can you take such requests:	Urgent	How urgent is it?	Urgent	8	0
+U_nu	Can you take such requests:	Not urgent	How urgent is it?	Not urgent	8	1
